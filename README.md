@@ -1,4 +1,5 @@
-# Password-Generator
+# Khievs-Password-Generator
+
 This is a random password generator.
 
 ## Description

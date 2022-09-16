@@ -5,6 +5,14 @@ This is a random password generator.
 
 This password generator will generate you a password based on the parameters the user inputs like length, lowercase, uppercase, numbers, and symbols.
 
+## Assets
+
+![Website Appearance](/images/website.png)
+
+Khiev's Password Generator: [Link](https://chrissnakhiev.github.io/Khievs-Password-Generator/)
+
+Khievs-Password-Generator github: [Link](https://github.com/ChrissnaKhiev/Khievs-Password-Generator/)
+
 ## Installation
 
 N/A

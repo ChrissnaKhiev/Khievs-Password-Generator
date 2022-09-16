@@ -64,8 +64,8 @@ function generatePassword() {
 
   for (var i = 0; i < charNum; i++) {
     
-    var randomNumber = Math.floor(Math.random() * passString.length);
-    final += passString.substring(randomNumber, randomNumber +1);
+    var randomNumber = Math.floor(Math.random() * passString.length - 1);
+    final += passString.charAt(randomNumber);
     console.log(final);//process
     }
     return final;
